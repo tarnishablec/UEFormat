@@ -3,6 +3,7 @@
 #include "Readers/UEFModelReader.h"
 #include <string>
 #include "zstd.h"
+#include <vector>
 #include "Misc/Compression.h"
 
 std::string ReadString(std::ifstream& Ar, int32 Size)
