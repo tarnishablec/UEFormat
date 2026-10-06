@@ -5,6 +5,7 @@
 __pycache_
 build/
 cmake-build-*/
+Binaries/
 
 # Local
 dev/
